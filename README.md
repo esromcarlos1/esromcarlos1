@@ -23,4 +23,4 @@
 
 > Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=esromcarlos1&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
